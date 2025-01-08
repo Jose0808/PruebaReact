@@ -1,4 +1,4 @@
-# Rspack Project
+# React Project
 
 ## Setup
 
@@ -10,14 +10,8 @@ npm install
 
 ## Get Started
 
-Start the dev server:
+Start server:
 
 ```bash
-npm run dev
-```
-
-Build the app for production:
-
-```bash
-npm run build
+npm start
 ```
